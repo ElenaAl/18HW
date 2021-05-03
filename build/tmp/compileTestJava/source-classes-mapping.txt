@@ -1,0 +1,2 @@
+ru/fintech/qa/hibernate/test/Tests.java
+ ru.fintech.qa.hibernate.test.Tests

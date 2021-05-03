@@ -1,0 +1,10 @@
+ru/fintech/qa/homework/utils/db/HibernateSessionCreator.java
+ ru.fintech.qa.homework.utils.db.HibernateSessionCreator
+ru/fintech/qa/homework/utils/classes/Animal.java
+ ru.fintech.qa.homework.utils.classes.Animal
+ru/fintech/qa/homework/utils/db/DBClient.java
+ ru.fintech.qa.homework.utils.db.DBClient
+ru/fintech/qa/homework/utils/db/DBHibernateService.java
+ ru.fintech.qa.homework.utils.db.DBHibernateService
+ru/fintech/qa/homework/utils/BeforeUtils.java
+ ru.fintech.qa.homework.utils.BeforeUtils
